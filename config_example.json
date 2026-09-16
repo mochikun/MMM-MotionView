@@ -1,0 +1,12 @@
+{
+  "module": "MMM-MotionView",
+  "position": "top_right",
+  "config": {
+    "width": 640,
+    "height": 480,
+    "x": 100,
+    "y": 50,
+    "url": "http://localhost:8080/stream",
+    "refreshInterval": 1000
+  }
+}

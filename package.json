@@ -1,0 +1,19 @@
+{
+  "name": "MMM-MotionView",
+  "version": "1.0.0",
+  "description": "A MagicMirror module that displays a camera stream with configurable dimensions and cropping",
+  "main": "MMM-MotionView.js",
+  "keywords": [
+    "magicmirror",
+    "camera",
+    "stream",
+    "motion",
+    "view"
+  ],
+  "author": "mochikun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mochikun/MMM-MotionView/issues"
+  },
+  "homepage": "https://github.com/mochikun/MMM-MotionView#readme"
+}
